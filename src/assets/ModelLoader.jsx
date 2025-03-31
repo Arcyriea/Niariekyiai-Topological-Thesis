@@ -17,3 +17,5 @@ const ModelLoader = (filePath) => {
       </mesh>
     );
   };
+
+  export default ModelLoader
